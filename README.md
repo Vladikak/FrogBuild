@@ -1,3 +1,3 @@
 # FrogBuild
 
-Easy tool to quicly build logo of FrogTeam
+Easy tool to quickly build logo of FrogTeam
